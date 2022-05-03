@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">I am a Game Developer. I am making mobile games with Unity Game Engine. I'm currently learning Java and Kotlin</h3>
+<h3 align="center">Native Game Developer. I am mobile apps with Java and Kotlin</h3>
 
-- 🌱 I’m currently learning **Java, Kotlin, Android Studio**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 📫 How to reach me **arifemrebulut@gmail.com**
 
