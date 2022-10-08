@@ -3,7 +3,7 @@
 
 - I can work with C#, Java and Kotlin programming languages.
 - I also have knowledge about Android development and I have a mobile application that I made to experience SQL databases on android and jetpack compose.
-- **Link of the app: https://bit.ly/notesafe-android**
+  **Link of the app: https://bit.ly/notesafe-android**
 - I’m currently improving myself on **Design Patterns on Game Development** and **Unity Editor Scripting**
 - and I am also very interested in **Shader Development**.
 
